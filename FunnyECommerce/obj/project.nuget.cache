@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bc560iPP/rCY8wc6hTrkP6eK52rw1DFuRG9pNQosJi0FZ0PE/F8KY4t5U4lS2JqA88SHJ82uf/BWXnbdb/OR8g==",
+  "dgSpecHash": "K9gfONd9+QAwV/X4r8xnK9uiiB6B3zI7n1lV1YAEUMqw7nib32W7DHfvRjnGHUMRewQduJedsMeYMfs6kX7VVQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\LUCAS\\Desktop\\Estudos\\FunnyECommerce\\FunnyECommerce\\FunnyECommerce.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LUCAS\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.17\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\LUCAS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\LUCAS\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\LUCAS\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

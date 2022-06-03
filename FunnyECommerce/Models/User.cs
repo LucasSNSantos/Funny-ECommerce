@@ -11,5 +11,6 @@ public class User
     public string Email { get; set; }
     public bool isBusiness { get; set; }
 
+    public ICollection<Product> Products { get; set; }
 
 }
